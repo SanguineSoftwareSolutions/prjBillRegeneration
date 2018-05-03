@@ -1,0 +1,6 @@
+Server = mysql
+Database Name = toaks
+userid = root
+password = sanguine
+ipaddress= localhost
+port= 3306
